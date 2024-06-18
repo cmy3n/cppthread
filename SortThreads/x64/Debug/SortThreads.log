@@ -1,0 +1,3 @@
+﻿  SortThreads.cpp
+D:\С++\SortThreads\SortThreads\SortThreads.cpp(91,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SortThreads.vcxproj -> D:\С++\SortThreads\x64\Debug\SortThreads.exe
